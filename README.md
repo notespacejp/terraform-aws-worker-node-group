@@ -30,8 +30,8 @@ No modules.
 
 | Name | Type |
 |------|------|
-| [aws_eks_node_group.ng](https://registry.terraform.io/providers/hashicorp/aws /latest/docs/resources/eks_node_group) | resource |
-| [aws_launch_template.lt](https://registry.terraform.io/providers/hashicorp/aws /latest/docs/resources/launch_template) | resource |
+| [aws_eks_node_group.ng](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/eks_node_group) | resource |
+| [aws_launch_template.lt](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/launch_template) | resource |
 
 ## Inputs
 
